@@ -31,3 +31,16 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# Maven
+/target/
+*.log
+
+# IntelliJ
+/.idea/
+/*.iml
+
+# OS
+.DS_Store
+Thumbs.db
